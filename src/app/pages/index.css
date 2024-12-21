@@ -1,0 +1,35 @@
+@media (max-width: 1000px) {
+  .right-section {
+    width: 100%;
+  }
+  .left-section {
+    display: none;
+  }
+  .grid {
+    flex-direction: column;
+  }
+}
+/* check it */
+/* .left-section {
+    position: sticky;
+  }
+  
+  .table-fixed {
+    position: fixed;
+    width: inherit;
+  } */
+
+.grid {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+  overflow: auto;
+  width: 100%;
+}
+
+.right-section {
+  flex: 0 0 30%;
+  overflow: auto;
+}

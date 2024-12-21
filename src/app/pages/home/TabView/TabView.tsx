@@ -34,6 +34,12 @@ export default function ScrollableDemo() {
         "This project allowed me to dive into the fundamentals of web development. I learned how to use HTML for creating the structure of a website, CSS for styling and layout, and JavaScript to make the website interactive. By practicing these three core technologies, I gained a solid foundation in building websites from scratch. This project helped me understand how web pages work together and gave me the confidence to start building more complex applications.",
     },
     {
+      title: "Portfolio_Resume using Html, CSS, React & Prime React",
+      link: "https://github.com/iamfareedshaik/Portfolio_Resume",
+      content:
+        "This project showcases a personal portfolio and resume built using HTML, CSS, and React. It is designed to highlight my skills, work experience, and achievements in an interactive and visually appealing way. By creating this project, I have applied my knowledge of front-end technologies to build a responsive, user-friendly portfolio that can be easily updated and maintained. It serves as a professional representation of my skills and serves as a reference for potential employers or clients.",
+    },
+    {
       title: "Kubernetes",
       link: "https://github.com/iamfareedshaik/testkub",
       content:

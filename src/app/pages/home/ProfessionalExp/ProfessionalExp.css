@@ -1,0 +1,12 @@
+.porfessionalExp {
+  border-left: 0.5rem solid #e5e7eb;
+  border-right: 0.5rem solid #e5e7eb;
+  border-bottom: 0.5rem solid #e5e7eb;
+}
+
+.prof-title {
+  border-left: 0.5rem solid #e5e7eb;
+  border-right: 0.5rem solid #e5e7eb;
+  padding: 10px;
+  font-weight: bold;
+}

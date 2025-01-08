@@ -1,4 +1,8 @@
-import { createBrowserRouter, RouteObject } from "react-router-dom";
+import {
+  createBrowserRouter,
+  createHashRouter,
+  RouteObject,
+} from "react-router-dom";
 import { RootLayout, RootErrorElement } from "./pages/_layout";
 import PortfolioWrap from "./pages";
 import Home from "./pages/home";
@@ -51,4 +55,4 @@ const routes: RouteObject[] = [
   },
 ];
 
-export const router = createBrowserRouter(routes);
+export const router = createHashRouter(routes);

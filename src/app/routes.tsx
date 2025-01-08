@@ -1,8 +1,4 @@
-import {
-  createBrowserRouter,
-  createHashRouter,
-  RouteObject,
-} from "react-router-dom";
+import { createHashRouter, RouteObject } from "react-router-dom";
 import { RootLayout, RootErrorElement } from "./pages/_layout";
 import PortfolioWrap from "./pages";
 import Home from "./pages/home";
